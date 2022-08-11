@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Day3_LineComparision
+namespace LineComparision_Day3
 {
     class UC1_LineLength
     {
